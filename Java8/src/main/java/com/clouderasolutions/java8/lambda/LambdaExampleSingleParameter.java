@@ -13,7 +13,7 @@ public class LambdaExampleSingleParameter {
 	}
 
 	private static void printReportsWithlambda() {
-		Reports reports = (String disease) -> {
+		Reports reports = (disease) -> {
 			System.out.println("Print reports of the following Disease : " + disease);
 		};
 		reports.healthReports("Cancer");

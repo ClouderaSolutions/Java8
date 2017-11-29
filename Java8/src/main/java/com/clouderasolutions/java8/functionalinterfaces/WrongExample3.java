@@ -9,7 +9,11 @@ interface Test3 {
 	void sampleExample();
 }
 
+/*
+
 @FunctionalInterface
 interface Test4 extends Test3{
 	void sampleExample2();
 }
+
+*/

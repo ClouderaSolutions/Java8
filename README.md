@@ -1,13 +1,19 @@
 <p align="right">
     <a href="https://www.facebook.com/clouderasolutions">
-        <img height=80 src="https://www.seeklogo.net/wp-content/uploads/2016/09/facebook-icon-preview-1.png">
+        <img height=90 src="https://www.seeklogo.net/wp-content/uploads/2016/09/facebook-icon-preview-1.png">
     </a>
     <a href="https://www.linkedin.com/company/13585811/">
-        <img height=85 src="https://www.shareicon.net/download/2017/06/30/888065_logo_512x512.png">
+        <img height=95 src="https://www.shareicon.net/download/2017/06/30/888065_logo_512x512.png">
+    </a>
+     <a href="https://twitter.com/Clouderasol">
+        <img height=60 src="https://www.underconsideration.com/brandnew/archives/twitter_comparison.gif">
+    </a>
+    <a href="info@clouderasolutions.com">
+        <img height=60 src="https://www.infiniahvac.com/wp-content/uploads/2016/11/Mail-icon-contact-mail-infinia-heating-air-conditioning.png">
     </a>
 </p>
 <p align="center">
-    <a href="https://www.hackerrank.com/Kanahaiya">
+    <a href="https://clouderasolutions.com">
         <img height=150 src="https://clouderasolutions.com/wp-content/uploads/2017/12/Logo_blackbackground.png">
     </a>
     <br>This repository contains Cloudera OpenSource Community Java8 Problems and Solutions

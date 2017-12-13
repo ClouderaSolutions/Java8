@@ -24,7 +24,7 @@
 
 * [For Each Method](#for-each-method)
 * [Functional Interfaces](#functional-interfaces)
-* [Lambda Functions](#algorithms)
+* [Lambda Functions](#lambda-functions)
 
 Coding environment used- Windows 8.1, Eclipse oxygen 1.A, JAVA 8
 
@@ -43,3 +43,13 @@ Coding environment used- Windows 8.1, Eclipse oxygen 1.A, JAVA 8
 |    2    | [Example 2 ](https://github.com/ClouderaSolutions/Java8/blob/master/Java8/src/main/java/com/clouderasolutions/java8/functionalinterfaces/Example2.java)                                   				  |
 |    3    | [Example 1, Multiple Interface Inheritance Problem ](https://github.com/ClouderaSolutions/Java8/blob/master/Java8/src/main/java/com/clouderasolutions/java8/functionalinterfaces/MultipleInterfaceInheritance.java)                                   				  |
 |    4    | [Example 3, Compile Time Error Problem ](https://github.com/ClouderaSolutions/Java8/blob/master/Java8/src/main/java/com/clouderasolutions/java8/functionalinterfaces/WrongExample3.java)                                   				  |
+
+
+
+# Lambda Functions
+
+| Problem |                                                Example                                              				        |                                                                                                                                                                                                                 									   
+|  :---:  |:---------------------------------------------------------------------------------------------------------------------:|
+|    1    | [Example 1, Draw Rectangle ](https://github.com/ClouderaSolutions/Java8/blob/master/Java8/src/main/java/com/clouderasolutions/java8/lambda/LambdaExampleDrawRectangle.java)                                   				  |
+|    2    | [Example 2, Single Parameter ](https://github.com/ClouderaSolutions/Java8/blob/master/Java8/src/main/java/com/clouderasolutions/java8/lambda/LambdaExampleSingleParameter.java)                                   				  |
+|    3    | [Example 3, Thread Initialization ](https://github.com/ClouderaSolutions/Java8/blob/master/Java8/src/main/java/com/clouderasolutions/java8/lambda/LambdaExampleThreadInitialization.java)                                   				  |
